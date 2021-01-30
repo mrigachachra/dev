@@ -33,5 +33,3 @@ console.log(obj["name"]);//steve
 
 
 
-
-
